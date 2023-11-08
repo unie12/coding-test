@@ -8,6 +8,7 @@ int dx[4] = {1, 0 , -1, 0};
 int dy[4] = {0, 1, 0, -1};
 int max = -1;
 
+// dfs
 void dfs(int r, int x){
     visit[r][x] = 1;
     sum++;
