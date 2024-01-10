@@ -1,0 +1,7 @@
+* Cookie 생성하고 관리
+
+* lombok사용 시 @Data 사용하지 않고(setter) @RequiredArgsCOnstructor, @Getter 등 직접 호출
+
+* builder 패턴 -> 생성자는 모든 데이터 설정해야하지만 builder는 원한는 것만 가능
+
+* 
