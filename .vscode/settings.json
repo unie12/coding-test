@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "stdlib.h": "c",
+        "stdint.h": "c",
+        "fcntl.h": "c",
+        "types.h": "c",
+        "deque": "c",
+        "limits": "c",
+        "ranges": "c",
+        "span": "c",
+        "utility": "c",
+        "xmemory": "c",
+        "xstring": "c",
+        "xutility": "c",
+        "cstring": "c"
+    }
+}
