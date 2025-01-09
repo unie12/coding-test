@@ -35,8 +35,8 @@ public class Problem16918 {
             board = bomb();
             printBoard(board);
         } else if (n % 4 == 1) {
-            // board = bomb();
-            // board = bomb();
+            board = bomb();
+            board = bomb();
             printBoard(board);
         }
     }
