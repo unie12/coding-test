@@ -23,7 +23,7 @@ public class Problem11657 {
 
     static int n, m;
     static List<Edge> graphs;
-    static int[] distance;
+    static long[] distance;
     static final int INF = Integer.MAX_VALUE;
 
     public static void main(String[] args) throws IOException {
@@ -33,7 +33,7 @@ public class Problem11657 {
         m = Integer.parseInt(st.nextToken()); // 버스 노선
 
         graphs = new ArrayList<>();
-        distance = new int[n + 1];
+        distance = new long[n + 1];
 
         for (int i = 0; i < m; i++) {
             st = new StringTokenizer(br.readLine());
