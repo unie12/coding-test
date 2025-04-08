@@ -28,7 +28,7 @@ public class Problem1041 {
 
         if (n == 1) {
             int sum = 0;
-            int max = 0;ㅉ
+            int max = 0;
             for (int num : arr) {
                 sum += num;
                 max = Math.max(max, num);
