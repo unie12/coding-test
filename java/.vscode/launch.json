@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Problem2589",
+            "request": "launch",
+            "mainClass": "graph.Problem2589",
+            "projectName": "java_9939be9b"
+        },
+        {
+            "type": "java",
             "name": "Problem21736",
             "request": "launch",
             "mainClass": "graph.Problem21736",
